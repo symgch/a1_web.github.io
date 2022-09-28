@@ -1,32 +1,33 @@
 body {
     font-family: Gill Sans, sans-serif;
-    background-image: linear-gradient(to bottom right, rgb(231,183,192), rgb(90,95,154));
+    background-image: linear-gradient(rgb(230, 180, 187) 15%, rgb(97, 99, 147));
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     text-align: center;
-  }
+}
   
-  a {
+a {
     text-decoration: none;
     color: hotpink;
     background-color: lavender;
     padding: 10px;
     border-radius: 25px;
-  }
+}
   
-  div {
+div {
      margin-bottom: 10px;
-  }
+}
   
-  
-  img {
+img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 30%;
     border-radius: 15px;
+}
   
-  
-  }
-  
-  .link {
+.link {
     margin: 40px;
-  }
+}
