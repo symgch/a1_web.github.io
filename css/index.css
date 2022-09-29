@@ -9,10 +9,11 @@ body {
 }
   
 a {
-    text-decoration: none;
-    color: hotpink;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    color: rgb(228, 106, 152);
     background-color: lavender;
-    padding: 10px;
+    padding: 15px;
     border-radius: 25px;
 }
   
@@ -30,4 +31,16 @@ img {
   
 .link {
     margin: 40px;
+}
+
+.profile {
+    position: relative;
+    color: white;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
