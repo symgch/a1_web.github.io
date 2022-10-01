@@ -10,7 +10,7 @@ body {
     font-size:15px;
 }
 
-#work, #hobby, #day {
+#work, #hobby, #day, #click {
     color: rgb(114, 19, 169);
     background-color: lavender;
 }
@@ -29,3 +29,4 @@ a {
     width: 25%;
     display: block;
 }
+
