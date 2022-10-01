@@ -26,6 +26,11 @@ p {
     margin-right: auto;
     text-align: center;
 }
+
+mark.color1{
+    color:#ff0000;
+    background: whitesmoke;
+}
   
 #star {
     color: rgb(114, 19, 169);
