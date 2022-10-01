@@ -1,0 +1,31 @@
+body {
+    font-family: Courier New;
+    background-color: rgb(61, 65, 132);
+    text-align: center;
+    color: white;
+}
+
+#title
+{
+    font-size:15px;
+}
+
+#work, #hobby, #day {
+    color: rgb(114, 19, 169);
+    background-color: lavender;
+}
+
+a {
+    text-decoration-line: underline;
+    color: rgb(228, 106, 152);
+    background-color: lavender;
+    padding: 15px;
+    border-radius: 25px;
+}
+
+.lego, .straw, .dream {
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    display: block;
+}
