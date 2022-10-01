@@ -1,0 +1,43 @@
+body {
+    font-family: Gill Sans, sans-serif;
+    background-image: linear-gradient(rgb(230, 180, 187) 15%, rgb(97, 99, 147));
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+}
+  
+a {
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    color: rgb(228, 106, 152);
+}
+  
+div {
+     margin-bottom: 10px;
+}
+  
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 15px;
+}
+  
+/* .link {
+    margin: 40px;
+} */
+
+.profile {
+    position: relative;
+    color: rgb(228, 106, 152);
+}
+
+.center {
+    position: absolute;
+    top: 45%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+}

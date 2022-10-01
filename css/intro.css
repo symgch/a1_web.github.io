@@ -1,0 +1,39 @@
+body {
+    font-family: Courier New;
+    background-color: rgb(255, 175, 202);
+    text-align: center;
+}
+ 
+table, th, td {
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+}
+
+a {
+    text-decoration-line: underline;
+    color: rgb(228, 106, 152);
+    background-color: lavender;
+    padding: 15px;
+    border-radius: 25px;
+}
+
+p {
+    text-decoration-line: none;
+    color: rgb(40, 40, 40);
+    width: 670px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+  
+#star {
+    color: rgb(114, 19, 169);
+    background-color: lavender;
+}
+
+img {
+    width: 80px;
+    height: 50px;
+    display: block;
+}
